@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "type": "Payment",
+    "sum": "14.1",
+    "name": "Apple",
+    "description": "Transaction from Apple company",
+    "date": "1686757170515",
+    "isPending": true,
+    "authorizedUser": "Sergey"
+  },
+  {
+    "id": 2,
+    "type": "Credit",
+    "sum": "999",
+    "name": "Sony",
+    "description": "Sony playstation 5",
+    "date": "1686567170311",
+    "isPending": false,
+    "authorizedUser": "Alex"
+  },
+  {
+    "id": 3,
+    "type": "Payment",
+    "sum": "56.21",
+    "name": "Apple",
+    "description": "Transaction from Apple company",
+    "date": "1686468170213",
+    "isPending": false,
+    "authorizedUser": "Sergey"
+  },
+  {
+    "id": 4,
+    "type": "Credit",
+    "sum": "133.2",
+    "name": "IKEA",
+    "description": "Transaction from IKEA company for buying LAGKAPTEN / ALEX table",
+    "date": "1686368170695",
+    "isPending": false,
+    "authorizedUser": ""
+  },
+  {
+    "id": 5,
+    "type": "Payment",
+    "sum": "322",
+    "name": "Airalo",
+    "description": "Transaction from Airalo company",
+    "date": "1686168170123",
+    "isPending": false,
+    "authorizedUser": ""
+  },
+  {
+    "id": 6,
+    "type": "Credit",
+    "sum": "221.98",
+    "name": "MasterCard",
+    "description": "Transaction from MasterCard for buying products",
+    "date": "1685968175212",
+    "isPending": false,
+    "authorizedUser": "Alex"
+  },
+  {
+    "id": 7,
+    "type": "Payment",
+    "sum": "721",
+    "name": "Apple",
+    "description": "Transaction from Apple company",
+    "date": "1685468170362",
+    "isPending": false
+  },
+  {
+    "id": 8,
+    "type": "Credit",
+    "sum": "940",
+    "name": "HP",
+    "description": "HP omen 15",
+    "date": "1685168170344",
+    "isPending": false,
+    "authorizedUser": "Alex"
+  },
+  {
+    "id": 9,
+    "type": "Credit",
+    "sum": "65",
+    "name": "MasterCard",
+    "description": "Transaction from MasterCard for buying products",
+    "date": "1684768170360",
+    "isPending": false,
+    "authorizedUser": "Alex"
+  },
+  {
+    "id": 10,
+    "type": "Credit",
+    "sum": "76",
+    "name": "MasterCard",
+    "description": "Transaction from MasterCard for buying products",
+    "date": "1684468170374",
+    "isPending": false,
+    "authorizedUser": "Alex"
+  }
+]

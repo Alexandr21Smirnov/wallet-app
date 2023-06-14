@@ -1,0 +1,49 @@
+.container {
+  margin-bottom: 2rem;
+
+  text-align: center;
+}
+
+.backIcon {
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  width: 30px;
+  height: 30px;
+  color: #2870d6;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 700;
+}
+.cardTitle {
+  margin-bottom: 0.5rem;
+}
+
+.text {
+  color: #909090;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.3rem;
+}
+
+.box {
+  width: 20rem;
+  max-height: 100%;
+  padding: 0.7rem;
+  border-radius: 0.5rem;
+  background-color: #fff;
+  text-align: start;
+}
+
+.textWrapper {
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid #e2e2e2;
+}
+
+.flex {
+  display: flex;
+  padding-top: 0.6rem;
+  justify-content: space-between;
+}
